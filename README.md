@@ -6,9 +6,10 @@ Repositório para Gestão do Conhecimento de História.
  
 | # | Tipo Fonte | Nome da Fonte | Progresso | Data | Versão | Links | Anotações |
 |:---:|:---:|:---|:---:|:---:|:---:|:---|:---|
-| 1 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 2 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
-| 3 | Livro da Disciplina |**NOME-DO-AUTOR**<br>[Livro - Nome-do-Livro]() | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro]() | - |
+| 1 | Livro |**CLÁUDIO VICENTINO<br>GIANPAOLO DORIGO**<br>[História Geral e do Brasil<br>VOLUME 1](./livro-VICENTINO-GIANPAOLO-2013-historia-geral-e-do-brasil-v1/README.md) | 0% | Junho/2023 | v0.0.1 | [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brVE-X77lO7r2zNIW?e=2znlxE) | - |
+| 2 | Livro |**CLÁUDIO VICENTINO<br>GIANPAOLO DORIGO**<br>[História Geral e do Brasil<br>VOLUME 2](./livro-VICENTINO-GIANPAOLO-2013-historia-geral-e-do-brasil-v2//README.md) | 0% | Junho/2023 | v0.0.1 | [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brUEDZ5vGAj6SQMs0?e=DwdDMM) | - |
+| 3 | Livro |**CLÁUDIO VICENTINO<br>GIANPAOLO DORIGO**<br>[História Geral e do Brasil<br>VOLUME 3](./livro-VICENTINO-GIANPAOLO-2013-historia-geral-e-do-brasil-v3/README.md) | 0% | Junho/2023 | v0.0.1 | [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brT9NsXYjodr1LR8U?e=apI9zw) | - |
+| 2 | Livro |**FLAVIA LAGES**<br>[História do Direito - Geral e do Brasil](./livro-LAGES-2007-historia-do-direito-geral-e-do-brasil/README.md) | 0% | Junho/2023 | v0.0.1 | 1. [Link para o livro](https://1drv.ms/b/s!Au-CrfNP6c0brGDmwG8AJYM7PV1e?e=MYJdav) | - |
 
 ## Relação das Competências Desenvolvidas
 
