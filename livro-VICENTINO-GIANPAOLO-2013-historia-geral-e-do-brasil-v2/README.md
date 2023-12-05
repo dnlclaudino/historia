@@ -10,6 +10,31 @@
 
 ## Sumário
 
+### UNIDADE 01 - EUROPA - O CENTRO DO MUNDO
+
+#### Capítulo 01 - A expansão européia
+#### Capítulo 02 - A colônia portuguesa na América
+#### Capítulo 03 - A diáspora africana
+#### Capítulo 04 - Arte e tecnologia
+#### Capítulo 05 - O cristianismo em transformação
+#### Capítulo 06 - O caminho das monarquias européias
+#### Capítulo 07 - América portuguesa: Expansão e diversidade econômica
+#### Capítulo 08 - A America espanhola e a América inglesa
+#### Capítulo 09 - Apogeu e desagregação do sistema colonial
+#### Capítulo 10 - O iluminismo e a independência das colônias inglesa da América do Norte
+
+### UNIDADE 02 - PARA ENTENDER NOSSO TEMPO: O SÉCULO XIX
+
+#### Capítulo 11 - Uma era de revoluções
+#### Capítulo 12 - Colando os cacos do poder monárquico
+#### Capítulo 13 - Brasil: Surge um país
+#### Capítulo 14 - As independências na América espanhola
+#### Capítulo 15 - Novos projetos políticos: Liberalismo, socialismo e nacionalismo
+#### Capítulo 16 - Europa e Estados Unidos no século XIX
+#### Capítulo 17 - A construção do Estado Brasileiro
+#### Capítulo 18 - África e Ásia no século XIX
+#### Capítulo 19 - O segundo reinado no Brasil
+
 ## Licença
 
 Este material está sob licença especificada no arquivo [LICENCE](../LICENSE). Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para **fins não comerciais**, DESDE QUE **atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as **novas criações** sob **termos idênticos**.

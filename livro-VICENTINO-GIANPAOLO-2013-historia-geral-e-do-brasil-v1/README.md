@@ -10,6 +10,24 @@
 
 ## Sumário
 
+### UNIDADE 01 - OS PRIMEIROS AGRUPAMENTOS HUMANOS
+
+#### Capítulo 01 - Em busca de nossos ancestrais
+#### Capítulo 02 - A Ocupação do continente em que vivemos
+
+### UNIDADE 02 - CIVILIZAÇÕES ANTIGAS
+
+#### Capítulo 03 - A vida em cidades
+#### Capítulo 04 - A Grécia antiga
+#### Capítulo 05 - A civilização romana
+
+### UNIDADE 03 - A EUROPA - A PERIFERIA DO MUNDO
+
+#### Capítulo 06 - O império Bizantino, o Islã e o panorama mundial
+#### Capítulo 07 - O surgimento da Europa
+#### Capítulo 08 - Economia, sociedade e cultura medieval
+#### Capítulo 09 - O mundo às vésperas do século XVI
+
 ## Licença
 
 Este material está sob licença especificada no arquivo [LICENCE](../LICENSE). Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para **fins não comerciais**, DESDE QUE **atribuam o devido crédito ao autor (Daniel Claudino)** e que licenciem as **novas criações** sob **termos idênticos**.
