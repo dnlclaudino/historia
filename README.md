@@ -1,3 +1,18 @@
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/historia#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
+    </td>
+  </tr>
+</table><br><br><br><br><br>
+
 # História
 
 Repositório para Gestão do Conhecimento de História.
@@ -32,6 +47,30 @@ Para mais informações, acesse minha [Gestão de Competências](https://github.
 ## Versão da Política de Gestão do Conhecimento
 
 A versão da [Política de Gestão do Conhecimento](https://github.com/dnlclaudino/gestao-do-conhecimento/tree/master) utilizada é **v0.0.1**. As regras para realização de **commits** estão disponíveis em [Regras para commits no Github](https://github.com/dnlclaudino/gestao-do-conhecimento/blob/master/README.md#regras-para-nomenclatura-de-commits-no-github)
+
+## Navegação nos arquivos deste repositório
+
+Em todos os arquivos deste repositório, serão disponibilizados os ícones abaixo, no ínício e canto superior direito de cada arquivo, para uma navegação básica para **página inicial da fonte** e para **página inicial da minha gestão do conhecimento**. Após a conclusão da redação de cada arquivo deste repositório, o ícone **Baixar em PDF** apontará para o arquivo PDF que será gerado possibilitando obter o conteúdo também no formato PDF.
+
+<table align="right" border="0">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/gestao-do-conhecimento#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa3.png?raw=true" heigh="60" width="60"><br>Início da <br>Gestão do <br>Conhecimento
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/historia#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones/casa2.png?raw=true" heigh="60" width="60"><br>Início deste <br>Repositório
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/dnlclaudino/historia#readme">
+        <img src="https://github.com/dnlclaudino/imagens/blob/master/icones-aplicativos/pdf/pdf.png?raw=true" heigh="60" width="60"><br>Baixar em PDF
+      </a>
+    </td>
+  </tr>
+</table><br><br><br><br><br>
 
 ## Licença
 
