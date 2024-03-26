@@ -22,7 +22,14 @@
 
 ## Como referenciar esta obra ?
 
-(...)
+- VICENTINO, Cláudio; DORIGO, Gianpaolo. História Geral e do Brasil – volume1. 2ª ed. São Paulo:
+Editora Scipione, 2013a.
+
+- VICENTINO, Cláudio; DORIGO, Gianpaolo. História Geral e do Brasil – volume2. 2ª ed. São Paulo:
+Editora Scipione, 2013b.
+
+- VICENTINO, Cláudio; DORIGO, Gianpaolo. História Geral e do Brasil – volume3. 2ª ed. São Paulo:
+Editora Scipione, 2013c.
 
 ## Como referenciar este material ?
 
